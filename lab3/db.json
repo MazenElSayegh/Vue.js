@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 4,
+      "first_name": "Hallis",
+      "last_name": "Matisoffs",
+      "gender": "female"
+    },
+    {
+      "id": 6,
+      "first_name": "Collen",
+      "last_name": "Sellick",
+      "gender": "Female"
+    },
+    {
+      "id": 7,
+      "first_name": "Artie",
+      "last_name": "McCready",
+      "gender": "Male"
+    },
+    {
+      "id": 8,
+      "first_name": "Irvine",
+      "last_name": "Christophle",
+      "gender": "Male"
+    },
+    {
+      "first_name": "Mazen",
+      "last_name": "Mohamed",
+      "gender": "male",
+      "id": 9
+    }
+  ]
+}
